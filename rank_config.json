@@ -1,0 +1,43 @@
+{
+  "ranks": [
+    {
+      "name": "Newbie",
+      "min_exp": 0,
+      "color": "#95a5a6"
+    },
+    {
+      "name": "Regular",
+      "min_exp": 100,
+      "color": "#3498db"
+    },
+    {
+      "name": "Active",
+      "min_exp": 500,
+      "color": "#2ecc71"
+    },
+    {
+      "name": "Veteran",
+      "min_exp": 1500,
+      "color": "#f39c12"
+    },
+    {
+      "name": "Expert",
+      "min_exp": 3000,
+      "color": "#e74c3c"
+    },
+    {
+      "name": "Master",
+      "min_exp": 5000,
+      "color": "#9b59b6"
+    },
+    {
+      "name": "Legend",
+      "min_exp": 10000,
+      "color": "#f1c40f"
+    }
+  ],
+  "exp_rate": {
+    "base_per_minute": 1,
+    "max_per_session": 100
+  }
+}
