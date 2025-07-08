@@ -1,0 +1,53 @@
+{
+  "ranks": [
+    {
+      "name": "Bronze",
+      "min_exp": 0,
+      "max_exp": 99,
+      "color": "#CD7F32"
+    },
+    {
+      "name": "Silver",
+      "min_exp": 100,
+      "max_exp": 299,
+      "color": "#C0C0C0"
+    },
+    {
+      "name": "Gold",
+      "min_exp": 300,
+      "max_exp": 599,
+      "color": "#FFD700"
+    },
+    {
+      "name": "Platinum",
+      "min_exp": 600,
+      "max_exp": 999,
+      "color": "#E5E4E2"
+    },
+    {
+      "name": "Diamond",
+      "min_exp": 1000,
+      "max_exp": 1999,
+      "color": "#B9F2FF"
+    },
+    {
+      "name": "Master",
+      "min_exp": 2000,
+      "max_exp": 3999,
+      "color": "#9400D3"
+    },
+    {
+      "name": "Grandmaster",
+      "min_exp": 4000,
+      "max_exp": 9999,
+      "color": "#FF4500"
+    },
+    {
+      "name": "Legend",
+      "min_exp": 10000,
+      "max_exp": 999999,
+      "color": "#FF0000"
+    }
+  ],
+  "exp_per_minute": 1
+}

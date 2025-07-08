@@ -1,0 +1,24 @@
+{
+  "users": {
+    "123456789012345678": {
+      "username": "SampleUser",
+      "exp": 150,
+      "total_afk_time": 7200,
+      "afk_sessions": 5,
+      "last_afk_start": null,
+      "last_afk_end": null,
+      "is_afk": false,
+      "afk_message": ""
+    },
+    "987654321098765432": {
+      "username": "TestUser",
+      "exp": 75,
+      "total_afk_time": 3600,
+      "afk_sessions": 3,
+      "last_afk_start": null,
+      "last_afk_end": null,
+      "is_afk": false,
+      "afk_message": ""
+    }
+  }
+}
